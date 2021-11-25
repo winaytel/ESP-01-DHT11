@@ -1,4 +1,4 @@
-### ESP-01-DHT11 SENSOR DE TEMPERATURA Y HUMEDAD
+# ESP-01-DHT11 SENSOR DE TEMPERATURA Y HUMEDAD
 
 En este proyecto se muestra la temperatura a tiempo real en la APP del MQTTDash.
 
